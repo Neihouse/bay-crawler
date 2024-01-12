@@ -1,0 +1,1 @@
+-- SQL schema for the crawled data will go here

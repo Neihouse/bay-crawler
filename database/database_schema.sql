@@ -1,0 +1,2 @@
+-- Placeholder for database schema
+-- This would typically involve creating tables and indexes to store and efficiently query crawled data

@@ -1,0 +1,9 @@
+{
+    "seed_file": "seed_urls.txt",
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "email_crawler_db"
+    }
+}

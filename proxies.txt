@@ -1,0 +1,3 @@
+http://proxyserver1:port
+http://proxyserver2:port
+http://proxyserver3:port

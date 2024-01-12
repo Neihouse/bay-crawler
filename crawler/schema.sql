@@ -1,0 +1,7 @@
+-- Placeholder for database schema
+-- Example:
+-- CREATE TABLE crawled_data (
+--   id SERIAL PRIMARY KEY,
+--   column1 VARCHAR(255),
+--   column2 VARCHAR(255)
+-- );
