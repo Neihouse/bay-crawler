@@ -1,1 +1,0 @@
-# Placeholder for Google Cloud Platform services integration
